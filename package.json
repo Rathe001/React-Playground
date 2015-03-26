@@ -1,0 +1,26 @@
+{
+  "name": "React-Playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^3.8.11"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rathe001/React-Playground.git"
+  },
+  "author": "Josh Tummel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rathe001/React-Playground/issues"
+  },
+  "homepage": "https://github.com/Rathe001/React-Playground"
+}
